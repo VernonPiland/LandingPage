@@ -13,7 +13,13 @@ footer{
 a{
     font-size: 18px;
     color: #E5E7EB;
+    text-decoration: none;
 }
 .signup-button{
     background-color: #3882F6;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
 }
