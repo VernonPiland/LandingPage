@@ -2,6 +2,7 @@
     font-family: "Roboto", sans-serif;
 }
 .right-links{
+    list-style-type: none;
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
