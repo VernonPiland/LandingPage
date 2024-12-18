@@ -30,5 +30,6 @@ header{
     justify-content: flex-end;
 }
 li{
+    display: flex;
     gap: 16px;
 }
