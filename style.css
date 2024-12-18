@@ -27,4 +27,5 @@ header{
 }
 .right-links{
     display: flex;
+    justify-content: flex-end;
 }
