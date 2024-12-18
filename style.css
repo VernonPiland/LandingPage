@@ -10,3 +10,6 @@ ul{
     display: flex;
     gap: 16px;
 }
+.container{
+    background-color: #1F2937;
+}
