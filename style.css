@@ -136,6 +136,7 @@ footer{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    flex: 1;
 }
 .container, .container-2, .container-3, .container-4{
     height: 400px;
