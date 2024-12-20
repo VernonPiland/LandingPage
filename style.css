@@ -41,7 +41,8 @@ h1{
     width: 100px;
 }
 .action{
-
+    height: 50%;
+    width: 400px;
     background-color: #3882F6;
 }
 h2{
