@@ -107,6 +107,8 @@ footer{
 .img-block{
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 .container, .container-2, .container-3, .container-4{
     height: 400px;
