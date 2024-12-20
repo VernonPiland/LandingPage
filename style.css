@@ -13,11 +13,19 @@
     align-items: center;
 }
 .awesome-text{
-    width: 30%;
+    width: auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    flex: 1;
+}
+.awesome-img{
+    height: 200px;
+    width: 250px;
+    background-color: darkgrey;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
