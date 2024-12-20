@@ -7,7 +7,6 @@
     align-items: center;
 }
 .awesome{
-    border: 5px solid white;
     height: 70%;
     display: flex;
     justify-content: space-evenly;
@@ -45,6 +44,7 @@ h1{
     color: #E5E7EB;
     padding: 0px;
     margin: 0px;
+    margin-bottom: 5px;
 }
 .signUp-button{
     background-color: #3882F6;
