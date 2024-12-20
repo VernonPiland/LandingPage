@@ -55,6 +55,8 @@ h1{
 }
 .action-info{
     font-weight: bold;
+    padding: 0px;
+    margin: 0px;
 }
 .quote-info{
     height: 30%;
