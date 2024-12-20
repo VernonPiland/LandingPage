@@ -18,13 +18,7 @@
     flex-direction: column;
     flex: 1;
 }
-.awesome-img-border{
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    max-width: 150px;
-    margin: 0 24px;
-}
+
 ul{
     list-style-type: none;
     display: flex;
