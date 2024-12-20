@@ -56,6 +56,8 @@ h2{
     font-size: 36px;
     font-weight: 900;
     color: #1F2973;
+    display: flex;
+    justify-content: center;
 }
 footer{
     display: flex;
@@ -64,10 +66,7 @@ footer{
     color: #E5E7EB;
     background-color: #1F2937 ;
 }
-.container-2{
-    display: flex;
-    justify-content: center;
-}
+
 
 .container-4{
     display: flex;
