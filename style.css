@@ -78,6 +78,9 @@ footer{
 .name{
     font-weight: bold;
     font-size: 18px;
+    display: flex;
+    justify-content: end;
+    padding: 20px;
 }
 
 .container-4{
