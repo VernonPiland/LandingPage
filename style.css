@@ -152,6 +152,3 @@ footer{
     height: 100px;
     width: 100px;
 }
-img:empty{
-    display: none;
-}
