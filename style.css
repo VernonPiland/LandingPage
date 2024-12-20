@@ -11,6 +11,7 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    flex-shrink: 1;
 }
 .awesome-text{
     width: 30%;
