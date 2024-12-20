@@ -7,6 +7,7 @@
     align-items: center;
 }
 .awsome{
+    border: 5px solid white;
     height: 70%;
     display: flex;
     justify-content: space-evenly;
