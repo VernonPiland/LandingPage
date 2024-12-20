@@ -11,10 +11,10 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    flex: 1 1 auto;
 }
 .awesome-text{
     width: 30%;
+    display: flex;
 }
 ul{
     list-style-type: none;
