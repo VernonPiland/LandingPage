@@ -56,6 +56,10 @@ h1{
 .action-info{
     font-weight: bold;
 }
+.quote-info{
+    height: 30%;
+    width: 75%;
+}
 h2{
     font-size: 36px;
     font-weight: 900;
