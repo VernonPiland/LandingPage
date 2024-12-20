@@ -75,6 +75,10 @@ footer{
     font-style: italic;
     color: #1F2937;
 }
+.name{
+    font-weight: bold;
+    font-size: 18px;
+}
 
 .container-4{
     display: flex;
