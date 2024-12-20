@@ -48,3 +48,8 @@ h2{
     font-weight: 900;
     color: #1F2973;
 }
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
