@@ -142,3 +142,7 @@ footer{
     border: 5px;
     box-sizing: border-box;
 }
+img{
+    border: 5px solid #1F2973;
+    border-radius: 5px;
+}
