@@ -130,6 +130,7 @@ footer{
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    gap: 16px;
 }
 .img-container{
     display: flex;
@@ -150,7 +151,4 @@ footer{
     border-radius: 5px;
     height: 100px;
     width: 100px;
-}
-.container-2{
-    display: flex;
 }
